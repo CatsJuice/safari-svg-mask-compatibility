@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  aria-hidden="true" role="img" class="iconify iconify--logos" 
+  width="200" height="200"
+  preserveAspectRatio="xMidYMid meet" viewBox="0 0 200 200">
+
+  <rect width="200" height="200" fill="currentColor" mask="url(#mask)"></rect>
+
+  <mask id="mask">
+    <rect width="200" height="200" fill="black"></rect>
+    <rect width="200" height="200" fill="white" rx="95.123"></rect>
+  </mask>
+</svg>
